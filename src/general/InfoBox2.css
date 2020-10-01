@@ -1,0 +1,29 @@
+.infobox {
+    height: 20vw;
+    background-color: rgb(242, 242, 242);
+    padding: 10vw;
+}
+
+.infobox__contentBox {
+    position: relative;
+    top: 15%;
+    width: 100%;
+    display: flex;
+}
+
+.infobox__contentTitle {
+    font-size: 4vw;
+    font-weight: 800;
+    text-align: left;
+    padding-left: 2%;
+    width: 125vw;
+}
+
+.infobox__contentText {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    width: 180vw;
+    font-size: 2vw;
+    text-align: left;
+}

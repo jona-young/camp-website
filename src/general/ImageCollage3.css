@@ -1,0 +1,35 @@
+.imagecollage {
+    height: 60vw;
+    background-color: rgb(242, 242, 242);
+}
+
+.img {
+    width: 50%;
+    height: 30vw;
+}
+
+.imagecollage__image1 {
+    position: relative;
+    top: 3px;
+}
+
+.imagecollage__image2 {
+    position: relative;
+    top: 3px;
+}
+
+.imagecollage__image3 {
+    position: relative;
+}
+
+.imagecollage__image4 {
+    position: relative;
+}
+
+.imagecollage__opacity {
+    position: relative;
+    top: -100.5%;
+    background: rgba(0,0,0, 30%);
+    height: 100%;
+    width: 100%;
+}

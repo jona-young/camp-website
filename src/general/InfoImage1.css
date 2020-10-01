@@ -1,0 +1,41 @@
+.infocover {
+    background: url('../images/info-cover.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 30vw;
+}
+
+.infocover__contentOpacity {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(77, 77, 77, 70%);
+    text-align: left;
+
+}
+
+.infocover__contentBox {
+    display: flex;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    height: 150px;
+    width: 70%;
+}
+
+.infocover__contentNumber {
+    font-size: 6vw;
+    font-weight: 800;
+    color: rgb(242, 242, 242);;
+}
+
+.infocover__contentText {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    width: 25vw;
+    font-size: 2vw;
+    color: rgb(242, 242, 242);;
+}
