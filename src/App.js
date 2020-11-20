@@ -3,6 +3,7 @@ import Cover from './general/Cover.js';
 import InfoImage from './general/InfoImage1.js';
 import InfoBox from './general/InfoBox2.js';
 import ImageCollage from './general/ImageCollage3.js';
+import InfoSports from './infosports/InfoSports.js';
 import './App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <InfoImage />
       <InfoBox />
       <ImageCollage />
+      <InfoSports />
     </div>
   );
 }

@@ -1,0 +1,59 @@
+.badmintoninfo {
+    height: 30vw;
+    background-color: rgb(242, 242, 242);
+    padding: 5vw;
+}
+
+.badmintoninfo__title {
+    font-size: 3vw;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 2%;
+    width: 50vw;
+}
+
+.badmintoninfo__docs {
+    position: relative;
+    left: -45%;
+}
+
+.badmintoninfo__docsSingle {
+    margin-left: 15vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+
+.doc1 {
+    position: relative;
+    left: 0.1vw;
+}
+
+.doc3 {
+    position: relative;
+    left: 0.65vw;
+}
+
+.doc4 {
+    position: relative;
+    left: -1.2vw;
+}
+
+.iconimg {
+    width: auto;
+    height: 2.5vw;
+}
+
+.icontext {
+    position: relative;
+    top: -0.75vw;
+    margin-left: 1vw;
+    width: 10vw;
+}
+
+.badmintoninfo__contentText {
+    position: relative;
+    top: -15vw;
+    left: 35vw;
+    width: 50vw;
+    text-align: left;
+}

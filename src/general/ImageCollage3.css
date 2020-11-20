@@ -10,26 +10,64 @@
 
 .imagecollage__image1 {
     position: relative;
-    top: 3px;
+    top: -25vw;
 }
 
 .imagecollage__image2 {
     position: relative;
-    top: 3px;
+    top: -25vw;
 }
 
 .imagecollage__image3 {
     position: relative;
+    top: -25.2vw;
 }
 
 .imagecollage__image4 {
     position: relative;
+    top: -25.2vw;
 }
 
-.imagecollage__opacity {
+.imagebox {
     position: relative;
-    top: -100.5%;
-    background: rgba(0,0,0, 30%);
-    height: 100%;
-    width: 100%;
+    z-index: 1;
+    padding: 15px 0px 0px 15px;
+    height: 5vw;
+    width: 15vw;
+    background-color: rgba(38, 38, 38, 90%);
+    font-family: sans-serif;
+    font-size: 1.4vw;
+    font-weight: 700;
+    text-align: left;
+    color: white;
+}
+
+.box1 {
+    position: relative;
+    z-index:1;
+    top: 3%;
+    left: 32%;
+}
+
+.box2 {
+    position: relative;
+    z-index:1;
+    top: -7%;
+    left: 81.5%;
+    width: 15.5vw;
+}
+
+.box3 {
+    position: relative;
+    z-index:1;
+    top: 32%;
+    left: 32%;
+    background-color: rgba(238, 238, 238, 10%);
+}
+
+.box4 {
+    position: relative;
+    z-index:1;
+    top: 22%;
+    left: 82%;
 }
