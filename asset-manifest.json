@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/camp-website/static/css/main.6d4f2a13.chunk.css",
+    "main.js": "/camp-website/static/js/main.a8d9f4b6.chunk.js",
+    "main.js.map": "/camp-website/static/js/main.a8d9f4b6.chunk.js.map",
+    "runtime-main.js": "/camp-website/static/js/runtime-main.9b015a06.js",
+    "runtime-main.js.map": "/camp-website/static/js/runtime-main.9b015a06.js.map",
+    "static/js/2.4fbac5d5.chunk.js": "/camp-website/static/js/2.4fbac5d5.chunk.js",
+    "static/js/2.4fbac5d5.chunk.js.map": "/camp-website/static/js/2.4fbac5d5.chunk.js.map",
+    "index.html": "/camp-website/index.html",
+    "precache-manifest.ad7d047b7f9b1b924ca433077789e048.js": "/camp-website/precache-manifest.ad7d047b7f9b1b924ca433077789e048.js",
+    "service-worker.js": "/camp-website/service-worker.js",
+    "static/css/main.6d4f2a13.chunk.css.map": "/camp-website/static/css/main.6d4f2a13.chunk.css.map",
+    "static/js/2.4fbac5d5.chunk.js.LICENSE.txt": "/camp-website/static/js/2.4fbac5d5.chunk.js.LICENSE.txt",
+    "static/media/badminton.jpg": "/camp-website/static/media/badminton.fbe8471e.jpg",
+    "static/media/camp.jpg": "/camp-website/static/media/camp.adb024ed.jpg",
+    "static/media/icon.jpg": "/camp-website/static/media/icon.7bae0cd7.jpg",
+    "static/media/InfoImage1.css": "/camp-website/static/media/info-cover.fddc1b6c.jpg",
+    "static/media/kids-cover.jpg": "/camp-website/static/media/kids-cover.827d9943.jpg",
+    "static/media/squash.jpg": "/camp-website/static/media/squash.90c74a24.jpg",
+    "static/media/tennis.jpg": "/camp-website/static/media/tennis.920cdb35.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b015a06.js",
+    "static/js/2.4fbac5d5.chunk.js",
+    "static/css/main.6d4f2a13.chunk.css",
+    "static/js/main.a8d9f4b6.chunk.js"
+  ]
+}
